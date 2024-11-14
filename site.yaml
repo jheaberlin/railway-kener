@@ -3,3 +3,7 @@ home: "/"
 hero:
     title: Test for D171
     subtitle: We shall see...
+github:
+    owner: "jheaberlin"
+    repo: "railway-kener"
+    incidentSince: 48
